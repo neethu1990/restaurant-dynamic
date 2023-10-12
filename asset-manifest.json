@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/restaurant-dynamic/static/js/main.c2bfacfa.js",
+    "index.html": "/restaurant-dynamic/index.html",
+    "main.c2bfacfa.js.map": "/restaurant-dynamic/static/js/main.c2bfacfa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2bfacfa.js"
+  ]
+}
